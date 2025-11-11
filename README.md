@@ -1,4 +1,11 @@
-The website is created to connent the owner with the tenant. The owners of houses can post/ add more the information of houses and they can delete and adjust some information of houses: https://house-for-rent-production.up.railway.app/
+**House Rental Management Web Application**
+
+This web application was developed to connect property owners with tenants efficiently. Owners can post new listings, update property details, and delete or modify existing information, while tenants can browse available properties.
+
+The project was built using modern web technologies for a responsive and user-friendly experience, with backend support for data management and secure operations. The application was deployed on Render, providing reliable and accessible hosting for users across devices.
+
+Live Demo: https://renting-house-b8mf.onrender.com/
+
 
 <img width="1687" alt="image" src="https://github.com/user-attachments/assets/a420bb7b-4c64-46cb-a902-17c1336b0f6e" />
 
